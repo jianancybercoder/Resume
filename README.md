@@ -10,7 +10,7 @@
 * [📄 個人履歷 (Resume)](./履歷.md)
 * [✍️ 中文自傳 (Autobiography - CH)](./中文自傳.md)
 * [✍️ 英文自傳 (Autobiography - EN)](./英文自傳.md)
-<!-- * [💻 專案展示 (Projects)](#-精選專案) -->
+* [💻 專案展示 (Projects)](./Projects/Hanji-AI-Education-Platform/README.md)
 
 ---
 
