@@ -8,8 +8,9 @@
 
 ## 📂 目錄 (Table of Contents)
 * [📄 個人履歷 (Resume)](./履歷.md)
-* [✍️ 個人自傳 (Autobiography)](./自傳.md)
-* [💻 專案展示 (Projects)](#-精選專案)
+* [✍️ 中文自傳 (Autobiography - CH)](./中文自傳.md)
+* [✍️ 英文自傳 (Autobiography - EN)](./英文自傳.md)
+<!-- * [💻 專案展示 (Projects)](#-精選專案) -->
 
 ---
 
