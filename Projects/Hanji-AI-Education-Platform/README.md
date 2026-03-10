@@ -30,9 +30,7 @@
 ---
 
 ## 📸 實作細節 (Implementation Details)
-> (建議：您可以在此放置專案截圖或系統架構圖)
 
-*   **部署環境**: Docker 容器化部署。
 *   **模型選型**: Llama-3 70B (透過 Groq), BGE-M3 (地端 Embedding)。
 
 ---
